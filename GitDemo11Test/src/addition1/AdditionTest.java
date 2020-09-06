@@ -6,8 +6,9 @@ public class AdditionTest {
 		// TODO Auto-generated method stub
 int Num1=19;
 int Num2=2;
-
-System.out.println("Addition of 2 numbers :" + Num1+Num2);
+int Sum=0;
+Sum=Num1+Num2;
+System.out.println("Addition of 2 numbers :" + Sum);
 	}
 
 }
